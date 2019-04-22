@@ -1,11 +1,12 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "lajitas-v1",
+  "description": "Mayors of Lajitas Band",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Patrick Schramm",
   "dependencies": {
     "build": "^0.1.4",
     "gatsby": "^2.2.9",
+    "gatsby-plugin-google-analytics": "^2.0.18",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.10",
@@ -16,7 +17,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "Mayors of Lajitas Band"
   ],
   "license": "MIT",
   "scripts": {
@@ -30,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/pschramm/MayorsOfLajitasBand"
   }
 }
