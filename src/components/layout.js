@@ -45,6 +45,7 @@ const Layout = ({ children, location }) => {
               { name: 'keywords', content: 'mayors of lajitas band, austin texas' },
             ]}
           >
+          
             <html lang="en" />
           </Helmet>
           {content}
